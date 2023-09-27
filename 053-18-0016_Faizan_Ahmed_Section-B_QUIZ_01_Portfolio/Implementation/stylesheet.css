@@ -1,0 +1,48 @@
+#profession{
+    font-size: 15px;
+    margin-left: 15px;
+}
+.nav-link{
+    color: black;
+}
+.header{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.name{
+    margin-left: 50px;
+    margin-top: 70px;
+}
+.description{
+    margin-left: 50px;
+}
+#profile{
+    margin-top: 50px;
+    /* margin-left: 180px; */
+}
+#myPort{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.skill_header{
+    margin-top: 70px;
+    margin-left: 50px;
+}
+.contact_header{
+    margin-top: 70px;
+    margin-left: 50px;
+}   
+
+#webDes{
+    margin-left: 110px;
+}
+.project_header{
+    margin-top: 90px;
+    margin-left: 50px;
+}
+.card{
+    margin-left: 40px;
+    outline: 20px;
+    border-color: rgb(66, 169, 253);
+    height: 400px;
+}
